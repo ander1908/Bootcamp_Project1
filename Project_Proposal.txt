@@ -1,0 +1,29 @@
+Project Title:Sick or Swim?
+
+Team Members: Hari Sharma, Emma Kruis, Leah Handel, Sana Jessani, Stephen Anderson 
+
+Project Description: 
+- E.coli levels at the beaches of Chicago
+- Examine their correlation with weather between Chicago and Milwaukee
+- Maybe do our own modeling and compare to their results
+
+
+Research Questions:
+- Is beach water affected by Milwaukee weather?
+- Does bacterial blooms correlate with swim advisories?
+- Are bacteria forecasters accurate in predicting blooms?
+
+Rough Breakdown of Tasks:
+
+Visualization 
+- Heatmap of bacterial blooms
+- Correlational analysis between Milwaukee rain and bacterial blooms (scatter plot)
+- Bar graph for frequency of beaches with high amounts of bacteria
+- Bacteria over the seasons in a ~two year span
+- Input chicago location and get it to say the two closest, least polluted beaches
+
+Data Sets:
+https://data.cityofchicago.org/Parks-Recreation/Beach-Swim-Advisories/t62e-8nvc
+https://data.cityofchicago.org/Parks-Recreation/Beach-Lab-Data/2ivx-z93u
+https://dev.socrata.com/foundry/data.cityofchicago.org/xvsz-3xcj
+
