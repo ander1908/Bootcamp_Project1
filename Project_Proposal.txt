@@ -9,9 +9,14 @@ Project Description:
 
 
 Research Questions:
-- Is beach water affected by Milwaukee weather?
+- Is beach water affected by Milwaukee weather? (Pull in weather data from OWM API)
 - Does bacterial blooms correlate with swim advisories?
 - Are bacteria forecasters accurate in predicting blooms?
+- What is the "dirtiest" beach? 
+- Which month has the most closures?
+- Which month is the dirtiest month (most blooms/highest bloom)?
+- What year had the most blooms/highest bacteria/worst year?”
+
 
 Rough Breakdown of Tasks:
 
@@ -26,4 +31,3 @@ Data Sets:
 https://data.cityofchicago.org/Parks-Recreation/Beach-Swim-Advisories/t62e-8nvc
 https://data.cityofchicago.org/Parks-Recreation/Beach-Lab-Data/2ivx-z93u
 https://dev.socrata.com/foundry/data.cityofchicago.org/xvsz-3xcj
-
