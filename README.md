@@ -3,7 +3,15 @@ This project consists of an analysis of the E. coli levels of the Chicago beache
 
 Data was collected via two methods. The first, and more established method, is a cell culture based method, which is an established (used by the EPA), but rather slow (results take 24-48 hours) method. This method was predominantly used from 2006 until 2016. Additionally, a new method was used to also collect data, using qPCR, a DNA analysis technique. This method provides more rapid results (4-6 hours) and has been used more predominantly since 2016, and is used currently. 
 
-The aim of the project was to identify any trends or relationships of interest that may be present. Data was cleaned and analyzed using Pandas, through Jupyter Notebook. Additionally, using Matplotlib, visualizations of the data and relevant finds were displayed. Also, Gmaps was used to create a heatmap to visualize the severity of the E. coli levels at the beaches. 
+![Culture by Month](https://github.com/ander1908/Bootcamp_Project1/blob/main/output/Culture_Days_Exceeing_Threshold_by_Month.png)
+![DNA by Month](https://github.com/ander1908/Bootcamp_Project1/blob/main/output/DNA_Days_Exceeing_Threshold_by_Month.png)
+
+The aim of the project was to identify any trends or relationships of interest that may be present, and to determine the freuency and intensity of days exceeding health and safety standards. 
+
+![Culture Threshold](https://github.com/ander1908/Bootcamp_Project1/blob/main/output/Culture_Readings_Above_Threshold_by_Month.png)
+![DNA Threshold](https://github.com/ander1908/Bootcamp_Project1/blob/main/output/DNA_Readings_Above_Threshold_by_Month.png)
+
+Data was cleaned and analyzed using Pandas, through Jupyter Notebook. Additionally, using Matplotlib, visualizations of the data and relevant finds were displayed. Also, Gmaps was used to create a heatmap to visualize the severity of the E. coli levels at the beaches. 
 
 Furthermore, it is known that Milwaukee releases sewage into Lake Michigan during periods of high rainfall and other situations where the system is overwhelmed. Our group wanted to investigate whether a relationship existed between the level of Milwaukee rainfall and the levels of E. coli in the chicago beaches. This was accomplished using a weather API, https://www.worldweatheronline.com/developer/. 
 
