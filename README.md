@@ -1,4 +1,4 @@
-# Bootcamp_Project1
+# Chicago E-Coli Test Results
 This project consists of an analysis of the E. coli levels of the Chicago beaches. Data was gathed via public data from the City of Chicago, through CSV files, in addition to APIs to access certain weather data. Beach data is found at https://data.cityofchicago.org/Parks-Recreation/Beach-Lab-Data/2ivx-z93u. 
 
 Data was collected via two methods. The first, and more established method, is a cell culture based method, which is an established (used by the EPA), but rather slow (results take 24-48 hours) method. This method was predominantly used from 2006 until 2016. Additionally, a new method was used to also collect data, using qPCR, a DNA analysis technique. This method provides more rapid results (4-6 hours) and has been used more predominantly since 2016, and is used currently. 
